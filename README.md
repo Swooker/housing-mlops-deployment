@@ -15,10 +15,10 @@ This repository provides a simple web-based deployment for predicting housing pr
 git clone https://github.com/Swooker/housing-mlops-deployment.git
 cd housing-mlops-deployment
 
-### 2. Install Requirements
+2 Install Requirements
 
 pip install gradio pandas scikit-learn joblib
 
-### 3. Run the App
+3 Run the App
 
 python app.py
